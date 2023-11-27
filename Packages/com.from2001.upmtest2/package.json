@@ -1,0 +1,10 @@
+{
+  "name": "com.from2001.upmtest2",
+  "version": "0.0.1",
+  "displayName": "upmtest2",
+  "unity": "2022.3",
+  "description": "UPM-Test",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
