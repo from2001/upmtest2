@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "name": "jp.rarafy.openjtalk_for_unity",
+            "hash": "7e48c211ab00bcdb932d0d17737b083e93c4664a",
+            "url": "https://github.com/rarafy/OpenJTalkForUnity.git?path=_Project/Packages/OpenJTalkForUnity"
+        }
+    ]
+}

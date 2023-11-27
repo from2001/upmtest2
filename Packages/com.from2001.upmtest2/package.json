@@ -5,7 +5,10 @@
   "unity": "2022.3",
   "description": "UPM-Test",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1",
-    "org.kumas.nuget-importer": "4.0.0"
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "gitDependencies": {
+    "jp.rarafy.openjtalk_for_unity": "https://github.com/rarafy/OpenJTalkForUnity.git?path=_Project/Packages/OpenJTalkForUnity",
+    "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git"
   }
 }
