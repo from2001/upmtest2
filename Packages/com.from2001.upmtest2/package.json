@@ -1,6 +1,6 @@
 {
   "name": "com.from2001.upmtest2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "displayName": "upmtest2",
   "unity": "2022.3",
   "description": "UPM-Test",
@@ -15,7 +15,7 @@
     {
       "displayName": "Sample1",
       "description": "Sample1",
-      "path": "Samples/Sample1"
+      "path": "/Assets/Samples/Sample1"
     }
   ]
 }
