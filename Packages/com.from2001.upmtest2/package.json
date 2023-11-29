@@ -5,7 +5,8 @@
   "unity": "2022.3",
   "description": "UPM-Test",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.vrmc.vrm": "0.115.0"
   },
   "gitDependencies": {
     "jp.rarafy.openjtalk_for_unity": "https://github.com/rarafy/OpenJTalkForUnity.git?path=_Project/Packages/OpenJTalkForUnity",

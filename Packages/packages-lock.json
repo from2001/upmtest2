@@ -12,7 +12,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "3.2.1"
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.vrmc.vrm": "0.115.0"
       }
     },
     "com.unity.collab-proxy": {
@@ -156,6 +157,35 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.vrmc.gltf": {
+      "version": "0.115.0",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.vrmc.vrmshaders": "0.115.0",
+        "com.unity.modules.animation": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.vrmc.vrm": {
+      "version": "0.115.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.vrmc.vrmshaders": "0.115.0",
+        "com.vrmc.gltf": "0.115.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.vrmc.vrmshaders": {
+      "version": "0.115.0",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
     },
     "jp.rarafy.openjtalk_for_unity": {
       "version": "file:.jp.rarafy.openjtalk_for_unity@1.1.13",
